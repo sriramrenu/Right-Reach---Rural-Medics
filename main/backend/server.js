@@ -359,4 +359,18 @@ app.post('/api/model/predict', async (req, res) => {
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
+
+    // ── Keepalive ping to prevent HF Space from sleeping ──────────────────
+    const MODEL_URL = process.env.MODEL_API_URL;
+    if (MODEL_URL) {
+        setInterval(async () => {
+            try {
+                await fetch(`${MODEL_URL}/health`);
+                console.log('[keepalive] HF Space pinged successfully');
+            } catch (err) {
+                console.warn('[keepalive] HF Space ping failed:', err.message);
+            }
+        }, 5 * 60 * 1000); // every 5 minutes
+        console.log(`[keepalive] Started pinging ${MODEL_URL}/health every 5 minutes`);
+    }
 });
