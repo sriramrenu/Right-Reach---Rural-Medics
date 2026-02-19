@@ -203,7 +203,7 @@ export default function PatientRegistration() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
 
-    const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000'
+    const API_URL = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000').replace(/\/$/, '')
 
     try {
       const response = await fetch(`${API_URL}/api/auth/register`, {

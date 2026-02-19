@@ -55,7 +55,7 @@ export default function DashboardPage() {
         }
 
         setUser(currentUser)
-        const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000'
+        const API_URL = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000').replace(/\/$/, '')
 
         const fetchData = async () => {
             const token = localStorage.getItem('token');
@@ -121,7 +121,7 @@ export default function DashboardPage() {
     };
 
     const handlePatientSearch = async () => {
-        const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000'
+        const API_URL = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000').replace(/\/$/, '')
         const token = localStorage.getItem('token');
         try {
             const response = await fetch(`${API_URL}/api/patients/${uhidSearch}`, {

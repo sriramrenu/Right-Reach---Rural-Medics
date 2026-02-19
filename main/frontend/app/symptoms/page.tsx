@@ -247,7 +247,7 @@ export default function SymptomChecker() {
     let aiError: string | undefined
 
     try {
-      const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:5000"
+      const API_URL = (process.env.NEXT_PUBLIC_API_URL || "http://localhost:5000").replace(/\/$/, "")
       const response = await fetch(`${API_URL}/api/model/predict`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },

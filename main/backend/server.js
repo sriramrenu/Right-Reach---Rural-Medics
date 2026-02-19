@@ -10,7 +10,12 @@ const PORT = process.env.PORT || 5000;
 const JWT_SECRET = process.env.JWT_SECRET || 'fallback-secret-for-dev';
 
 // Middleware
-app.use(cors());
+app.use(cors({
+    origin: ['https://right-reach-rural-medics-frontend.vercel.app', 'http://localhost:3000'],
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
+    credentials: true
+}));
 app.use(express.json());
 
 // Middleware to authenticate JWT
