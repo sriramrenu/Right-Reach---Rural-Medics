@@ -1,0 +1,501 @@
+disease_name,category,doctor_type,health_camp,medicine_source,govt_scheme,private_scheme,funding_support,kiosk_support,offline_appointment,state
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Optional,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Optional,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Optional,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Optional,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Optional,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Optional,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Optional,Optional,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Optional,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Optional,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Optional,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Optional,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Optional,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Optional,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Optional,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Optional,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Optional,Optional,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Optional,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Optional,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Optional,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Optional,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Optional,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Optional,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Optional,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Optional,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Optional,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Optional,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Optional,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Optional,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Optional,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Optional,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Optional,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Optional,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Optional,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Optional,Yes,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Optional,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Yes,Tamil Nadu
+hypertension,non_communicable,General Physician,Heart Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Optional,Tamil Nadu
+eczema,skin,Dermatologist,Skin Care Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Optional,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Optional,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+iron deficiency anemia,nutritional,General Physician,Anemia Screening Camp,PHC / Camp Supply,Anaemia Mukt Bharat,None,Government Aid,Yes,Yes,Tamil Nadu
+vitamin d deficiency,nutritional,General Physician,Nutrition Camp,PHC / Camp Supply,Poshan Abhiyaan,None,Government Aid,Yes,Optional,Tamil Nadu
+tuberculosis,communicable,General Physician,TB Control Camp,Govt TB Center,National TB Elimination Programme,None,Government Aid,Yes,Optional,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Optional,Yes,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Optional,Yes,Tamil Nadu
+dengue,communicable,General Physician,Vector Borne Disease Camp,Govt PHC,National Health Mission,None,Government Aid,Yes,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Yes,Tamil Nadu
+asthma,respiratory,Pulmonologist,Respiratory Health Camp,Govt Hospital Pharmacy,CMCHIS,Private Insurance,Government Coverage,Yes,Yes,Tamil Nadu
+pregnancy,maternal_child,Gynecologist,Maternal Care Camp,Govt Maternity Hospital,Dr Muthulakshmi Reddy Scheme,None,Government Aid,Yes,Optional,Tamil Nadu
+diabetes,non_communicable,Endocrinologist,NCD Screening Camp,Govt PHC,CMCHIS,Private Insurance,Government Coverage,Yes,Optional,Tamil Nadu
+depression,mental_health,Psychiatrist,Mental Wellness Camp,Govt Hospital Pharmacy,National Mental Health Programme,Private Therapy,NGO Support,Yes,Yes,Tamil Nadu
+autism,disability_rehab,Rehabilitation Specialist,Disability Support Camp,Govt Rehab Center,Disability Welfare Scheme,None,Government Aid,Optional,Yes,Tamil Nadu
+gastritis,digestive,General Physician,General Health Camp,Nearby Pharmacy,CMCHIS,Private Insurance,Self / Govt,Yes,Optional,Tamil Nadu
+arthritis,geriatric,Orthopedic Specialist,Elder Care Camp,Govt Hospital Pharmacy,Senior Citizen Health Scheme,None,Government Aid,Yes,Yes,Tamil Nadu
