@@ -11,7 +11,14 @@ const JWT_SECRET = process.env.JWT_SECRET || 'fallback-secret-for-dev';
 
 // Middleware
 app.use(cors({
-    origin: ['https://right-reach-rural-medics-frontend.vercel.app', 'http://localhost:3000'],
+    origin: (origin, callback) => {
+        // Allow no origin (mobile/curl), specific production domain, and any vercel preview domain
+        if (!origin || origin.includes('vercel.app') || origin.includes('localhost')) {
+            callback(null, true);
+        } else {
+            callback(new Error('Not allowed by CORS'));
+        }
+    },
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true

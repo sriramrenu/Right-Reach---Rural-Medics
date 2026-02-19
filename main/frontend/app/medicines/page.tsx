@@ -279,7 +279,7 @@ export default function MedicineTracker() {
     try {
       let results = mockMedicines
       const currentUser = JSON.parse(localStorage.getItem('current_user') || '{}')
-      const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000'
+      const API_URL = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000').replace(/\/$/, '')
 
       // If patient is logged in, ONLY show prescribed medicines (as requested)
       if (currentUser.id && currentUser.role === 'patient') {

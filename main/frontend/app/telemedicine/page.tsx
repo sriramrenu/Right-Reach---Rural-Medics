@@ -179,7 +179,7 @@ export default function TelemedicinePage() {
   const [appointments, setAppointments] = useState<any[]>([])
 
   const fetchAppointments = useCallback(async (uhid: string) => {
-    const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000'
+    const API_URL = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000').replace(/\/$/, '')
     try {
       const response = await fetch(`${API_URL}/api/appointments/${uhid}`);
       if (response.ok) {
@@ -246,7 +246,7 @@ export default function TelemedicinePage() {
   const handleBookAppointment = async () => {
     if (selectedDoctor && selectedDate && selectedTime && consultationReason) {
       const currentUser = JSON.parse(localStorage.getItem('current_user') || '{}')
-      const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000'
+      const API_URL = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000').replace(/\/$/, '')
 
       try {
         // Prepare appointment data

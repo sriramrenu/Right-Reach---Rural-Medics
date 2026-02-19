@@ -98,7 +98,7 @@ export default function SchemesPage() {
         const currentUser = JSON.parse(localStorage.getItem('current_user') || 'null')
         if (currentUser) {
             setUser(currentUser)
-            const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000'
+            const API_URL = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000').replace(/\/$/, '')
 
             fetch(`${API_URL}/api/patients/${currentUser.id}`)
                 .then(res => res.json())

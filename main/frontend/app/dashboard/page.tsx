@@ -139,7 +139,7 @@ export default function DashboardPage() {
 
     const handleAddPrescription = async () => {
         if (searchedPatient && newPrescription.name) {
-            const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000'
+            const API_URL = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000').replace(/\/$/, '')
             try {
                 const token = localStorage.getItem('token');
                 const response = await fetch(`${API_URL}/api/prescriptions`, {
